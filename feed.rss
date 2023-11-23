@@ -3,12 +3,12 @@
      <channel>
         <title>Example Feed</title>
         <description>Insert witty or insightful remark here</description>
-        <link>http://example.org/</link>
+        <link>https://pages.github.com/</link>
         <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
         <managingEditor>johndoe@example.com (John Doe)</managingEditor>
         <item>
             <title>Test page</title>
-            <link>http://example.org/test.html</link>
+            <link>https://pages.github.com/</link>
             <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
             <description>Some text.</description>
         </item>
